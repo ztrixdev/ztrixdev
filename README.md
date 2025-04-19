@@ -6,7 +6,7 @@
 - I make projects on .NET and Go💯💻
 
 ### Currently rocking (distros) :
-- Rocky Linux 9 with MATE DE (main machine)
+- Rocky Linux 9 with KDE (main machine)
 - Archlinux with LXQT (trashbin laptop) 
 - Fedora 41 with Budgie (termux proot-distro)
   

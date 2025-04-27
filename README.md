@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hewo! :3
+I'm **ztrix**, a teen tech enthusiast, nice to meet you!  
+<br>
+Am focused on:  
+<br>
+![skillicons.dev](https://skillicons.dev/icons?i=cs,dotnet,swift)   
+<br>
+Am rocking:   
+<br>
+![skillicons.dev](https://skillicons.dev/icons?i=apple,vscode,github)
 
-<!--
-**ztrixdev/ztrixdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my:  
+- Projects (Currently 404): <a href="https://v.gd/ORhBP1">click</a>
+- AMD Hackintosh Handbook: <a href="https://v.gd/wQf2i8">click</a>
+- Discord server: <a href="https://v.gd/svFaq2">click</a>
